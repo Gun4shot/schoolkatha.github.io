@@ -1,0 +1,62 @@
+.img1{
+border: solid 5px;
+width: 100px;
+height: 100px;
+position: absolute;
+}
+.head{
+color: #abcdef;
+text-align: center;
+font-size: 50px;
+Border:solid 1px;width:320px;
+margin-left: 300px;
+border-radius: 20px;
+background: linear-gradient(180deg, red, black);
+}
+body {
+ background-color: #000021;
+ color: white;
+}
+.nv1{
+color: white;
+}
+.mul{
+text-align: center;
+color: pink;
+}
+.container {
+background-color: navy;
+filter: opacity(50%);
+}
+p {
+ font-size: 25;
+}
+.pro{
+color: red;
+}
+a{
+  font-size:20px;
+}
+.tele{
+  border: solid 2px;
+}
+.cont{
+  display:flex;
+  flex-direction:row;
+  border: solid 1px white;
+  background-color: grey;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.one{
+    flex-basis: 50%;
+    text-align: center;
+    border: solid 1px white;
+    background-color: navy;
+}
+.two{
+    flex-basis: 50%;
+    text-align: center;
+    border: solid 1px white;
+    background-color: navy;
+}
